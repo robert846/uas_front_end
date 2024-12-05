@@ -1,6 +1,6 @@
 <footer class="main-footer">
     <div class="footer-left">
-        Copyright Robert Wirawan <div class="bullet"></div> Design By <a href="https://nauval.in/">Muhamad
+        Copyright Robert Wirawan <div class="bullet"></div> Design By <a href="https://nauval.in/">Antonius
             Robert Wirawan</a>
     </div>
     <div class="footer-right">
